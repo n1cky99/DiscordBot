@@ -1,2 +1,2 @@
-BOT_TOKEN = "MTIwMjU5MDM0MzE2MjM2ODA1MA.GQSbyb.mQku1qCYto4hvB_llE5iYpZ26x3pU6Hv-cLdNA"
+BOT_TOKEN = "" #add the value of the bot token in the ""
 OPENWEATHERMAP_API_KEY = "fa92698bf9d51d6df9e8a4cabb686f37"
